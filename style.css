@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background: linear-gradient(#6A5ACD 100%, #191970 0%)
+}
+img {
+    size: 900px;
+}
+#menu {
+    background-color:#A9A9A9;
+    list-style: none;
+    position:fixed;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    cursor: pointer;
+    width: 100%
+}
+.link {
+    float: left;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+}
